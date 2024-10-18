@@ -1723,12 +1723,33 @@ newduba.cn###jq_youxi
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
 !
+||jmipzsn.icu^
+||kpmsoq.xyz^
+||osujcq.xyz^
+||ttroytj33.fun^
+||6qyxeob.xyz^
+||bmougwx.icu^
+||magioe.xyz^
+||wuresde.top^
+||ytroytj33.fun^
+||bld.mobi^
+||x0y081e.xyz^
+||ljvc0.icu^
+||quresdy.top^
 ||cggyyi.xyz^
 ||qdoeki.xyz^
 ||etroytj33.fun^
 ||thrzbf.xyz^
 ||ioykmxa.icu^
 ||abixkw.xyz^
+||suresdb.top^
+##a[href*="/souv5.com/"]
+||xpicj6.cc^
+||xpicj8.cc^
+||rtroytj33.fun^
+||1iohncj.xyz^
+||euresdw.top^
+||tgb1l.icu^
 ||erqtga.xyz^
 ||wkabios.icu^
 ||opkmio.xyz^
@@ -10538,6 +10559,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||mydyxs.com/mpc/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+ithome.com##.-hongbao-container
 vidhub.me,vidhub.tv##.promotelink
 6parknews.com##div[style="width:990px;height:140px;margin-left:auto;margin-right:auto;text-align:center;"]
 element-plus.org##.page-sidebar-top
@@ -11408,7 +11430,7 @@ my0511.com###lphybbschklogdiv
 nextapple.com###lrec01
 mcbbs.net###lsform + .y
 antpedia.com###luxury_car
-btnull.org###ly
+btnull.org,gying.net,gying.org,gying.si,gying.in,gyg.la,gyg.si###ly
 playno1.com###m12
 playno1.com###m2
 playno1.com###m7
